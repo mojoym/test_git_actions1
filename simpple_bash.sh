@@ -1,2 +1,2 @@
-echo Hello
-echo my name is Makarii Hlyva
+echo Hello World
+echo My name is Makarii Hlyva
